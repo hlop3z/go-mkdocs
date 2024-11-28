@@ -6,7 +6,7 @@ watch:
 
   # Navigation
 nav:
-  - Home: index.html
+  - Home: index.md
 
 theme:
   name: material
